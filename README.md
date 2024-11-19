@@ -1,4 +1,3 @@
-# Jackson Loth
 I am currently pursuing a PhD in AI and Music at the Centre for Digital Music (C4DM) at Queen Mary University of London. My research focuses on generative AI for guitars. I also write and produce metal music under the name Serval.
 
 [Google Scholar](https://scholar.google.com/citations?user=_sE33TkAAAAJ&hl=en&oi=sra) | 
