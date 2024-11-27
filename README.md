@@ -7,7 +7,7 @@ I am currently pursuing a PhD in AI and Music at the Centre for Digital Music (C
 ### Guitar Synthesis
 This project explores synthesising electric guitar using a diffusion transformer and a guitar-specific input format. We are targeting a publication at ISMIR 2025.
 ### GOAT
-Trgeting a publication at ISMIR 2025.
+Targeting a publication at ISMIR 2025.
 ### Guitar Timbre Project
 This is a large and significant project but I unfortunately cannot share too much about it until we publish. Stay tuned!
 ### HEL9000
