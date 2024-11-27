@@ -7,8 +7,8 @@ I am currently pursuing a PhD in AI and Music at the Centre for Digital Music (C
 ### Guitar Synthesis
 This project explores synthesising electric guitar using a diffusion transformer and a guitar-specific input format. We are targeting a publication at ISMIR 2025.
 ### GOAT
-Guitar dataset, targeting a publication at ISMIR 2025.
-### Guitar Timbre Analysis
+Trgeting a publication at ISMIR 2025.
+### Guitar Timbre Project
 This is a large and significant project but I unfortunately cannot share too much about it until we publish. Stay tuned!
 ### HEL9000
 Dominating the cosmos with AI metal 🤘
@@ -24,6 +24,11 @@ The second EP from my progressive metal project Serval. While not an academic pr
 [YouTube](https://www.youtube.com/@servalprog) |
 [Spotify](https://open.spotify.com/artist/72mMU9TdSG6L9xXCfy7Q69?si=DWqenwd6T6earCEZvBFRmg)
 # Previous projects/publications
+### (2024) Analysis of MIDI as Input Representations for Guitar Synthesis
+We analyse the effectiveness of MIDI as an input representation in the task of guitar synthesis. Given the results, we argue that more comprehensively annotated datasets are needed for this task.
+
+This paper was published in the proceedings of DMRN+19: Digital Music Research Network One-day Workshop 2024
+
 ### (2024) Between the AI and Me: Analysing Listeners' Perspectives on AI-and Human-Composed Progressive Metal Music
 Generative AI models have recently blossomed, significantly impacting artistic and musical traditions. Research investigating how humans interact with and deem these models is therefore crucial. Through a listening and reflection study, we explore participants' perspectives on AI- vs human-generated progressive metal, in symbolic format, using rock music as a control group. AI-generated examples were produced by ProgGP, a Transformer-based model. We propose a mixed methods approach to assess the effects of generation type (human vs. AI), genre (progressive metal vs. rock), and curation process (random vs. cherry-picked). This combines quantitative feedback on genre congruence, preference, creativity, consistency, playability, humanness, and repeatability, and qualitative feedback to provide insights into listeners' experiences. A total of 32 progressive metal fans completed the study. Our findings validate the use of fine-tuning to achieve genre-specific specialization in AI music generation, as listeners could distinguish between AI-generated rock and progressive metal. Despite some AI-generated excerpts receiving similar ratings to human music, listeners exhibited a preference for human compositions. Thematic analysis identified key features for genre and AI vs. human distinctions. Finally, we consider the ethical implications of our work in promoting musical data diversity within MIR research by focusing on an under-explored genre.
 
